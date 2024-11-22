@@ -31,33 +31,19 @@ I am a passionate Machine Learning Engineer with a focus on solving real-world p
 
 ## EDA Projects
 
-### [SuperStore EDA](https://github.com/hazem-gamal-1/SuperStore-EDA)  
-An exploratory data analysis project on the Superstore dataset. Key insights:
-- Analysis of sales, profits, and customer behavior across regions, categories, and segments
-- Identified top-selling products and the effect of discounts on profitability
+### [SuperStore EDA](https://github.com/hazem-gamal-1/SuperStore-EDA)
 
 ### [Student Performance EDA](https://github.com/hazem-gamal-1/Students-Performance-EDA)  
-Exploration of factors affecting student performance in math, reading, and writing. Key findings:
-- Relationship between demographic factors (e.g., gender, parental education) and academic performance
-- Insights into the impact of lunch type and test preparation on performance
+
 
 ## Machine Learning Projects
 
 ### Regression
 
 - **[Trip Duration Predictor](https://github.com/hazem-gamal-1/Trip-Duration-Predictor)**  
-Predicts taxi trip durations using Ridge regression. Key aspects:
-  - Analysis of historical trip data (coordinates, time of day)
-  - Prediction of future trip durations
 
 ### Classification
 
 - **[Credit Card Fraud Detector](https://github.com/hazem-gamal-1/Credit-Card-Fraud-Detector)**  
-Detects fraudulent credit card transactions. Key techniques:
-  - Application of classification algorithms and data sampling methods
-  - Improved fraud detection using EDA insights
 
-- **[KNN Fraud Detector](https://github.com/hazem-gamal-1/KNN-Fraud-Detector)**  
-Uses K-Nearest Neighbors (KNN) to detect fraudulent transactions. Key highlights:
-  - Addressed class imbalance with preprocessing and sampling techniques
-  - Enhanced model performance in fraud detection
+- **[KNN Fraud Detector](https://github.com/hazem-gamal-1/KNN-Fraud-Detector)**
