@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hazem Gamal
 
-I am a passionate Machine Learning Engineer with a focus on solving real-world problems through data analysis and machine learning models. I am constantly learning and improving my skills to stay up-to-date with the latest trends in artificial intelligence and data science.
+I am a passionate Machine Learning Engineer with a focus on solving real-world problems through Ai. I am constantly learning and improving my skills to stay up-to-date with the latest trends in artificial intelligence and data science.
 
 ---
 <h3 align="left">Connect with me:</h3>
