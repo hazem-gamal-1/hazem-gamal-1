@@ -32,7 +32,7 @@ From designing intelligent models to deploying polished applications, I turn ide
 
 # Projects
 
-## AI-Powered Web Applications
+## Web Applications
 ### [Skillmind AI](https://github.com/hazem-gamal-1/Skillmind-Ai)
 
 
