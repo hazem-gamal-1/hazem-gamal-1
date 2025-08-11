@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Hazem Gamal
+# Hi, I'm Hazem Gamal
 
-## 🌟 AI Engineer & Full-Stack Developer
+## AI Engineer & Full-Stack Developer
 
 I'm an **AI Engineer** and **Full-Stack Developer** passionate about building **AI-powered applications** that make an impact.  
 I work with **classical machine learning**, **deep learning**, and **computer vision**, and I develop complete web solutions using the **MEAN stack**.  
@@ -8,7 +8,7 @@ From designing intelligent models to deploying polished applications, I turn ide
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hazemgamal1" target="_blank">
@@ -30,26 +30,25 @@ From designing intelligent models to deploying polished applications, I turn ide
 
 ---
 
-# 🚀 Projects
+# Projects
 
-## 🤖 AI-Powered Web Applications
+## AI-Powered Web Applications
 ### [Skillmind AI](https://github.com/hazem-gamal-1/Skillmind-Ai)
-AI-powered platform for skill development and assessment
 
 
-
-## 👁️ Computer Vision Projects
+## Computer Vision Projects
 ### [Dentist](https://github.com/hazem-gamal-1/dentist)
 
 
-## 🎯 Machine Learning Projects
+## Machine Learning Projects
 ### [Trip Duration Predictor](https://github.com/hazem-gamal-1/Trip-Duration-Predictor)
 
 ### [KNN Fraud Detector](https://github.com/hazem-gamal-1/KNN-Fraud-Detector)
 
+### [Credit Card Fraud Detector](https://github.com/hazem-gamal-1/Credit-Card-Fraud-Detector)
 
 
-## 📊 Exploratory Data Analysis (EDA) Projects
+## Exploratory Data Analysis (EDA) Projects
 ### [SuperStore EDA](https://github.com/hazem-gamal-1/SuperStore-EDA)
 
 ### [Students Performance EDA](https://github.com/hazem-gamal-1/Students-Performance-EDA)
@@ -57,7 +56,7 @@ AI-powered platform for skill development and assessment
 
 ---
 
-## 💡 Skills & Tools
+## Skills & Tools
 
 ### 💻 Programming Languages
 <p align="left">
