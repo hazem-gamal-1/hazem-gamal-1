@@ -3,7 +3,7 @@
 ## AI Engineer & Full-Stack Developer
 
 I'm an **AI Engineer** and **Full-Stack Developer** passionate about building **AI-powered applications** that make an impact.  
-I work with **classical machine learning**, **deep learning**, and **computer vision**, and I develop complete web solutions using the **MEAN stack**.  
+I work with **classical machine learning**, **deep learning**, and **computer vision**, and I develop complete web solutions.  
 From designing intelligent models to deploying polished applications, I turn ideas into real-world products.
 
 ---
