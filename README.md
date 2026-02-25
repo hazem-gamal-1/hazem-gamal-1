@@ -1,10 +1,11 @@
 # Hi, I'm Hazem Gamal
 
-## AI Engineer & Full-Stack Developer
+## AI Engineer
 
-I'm an **AI Engineer** and **Full-Stack Developer** passionate about building **AI-powered applications** that make an impact.  
-I work with **classical machine learning**, **deep learning**, and **computer vision**, and I develop complete web solutions.  
-From designing intelligent models to deploying polished applications, I turn ideas into real-world products.
+AI Engineer specializing in Machine Learning, Deep Learning, and Generative AI, with a strong focus on LLM-based agentic workflows. Experienced in building intelligent systems that combine classical ML, Computer Vision,
+and large language models to solve real-world problems. Skilled in designing end-to-end AI pipelines, from data
+preprocessing and model training to evaluation and optimization. Capable of integrating AI solutions into modern
+web applications to deliver scalable, production-ready systems.
 
 ---
 
