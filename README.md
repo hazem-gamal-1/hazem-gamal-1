@@ -38,6 +38,7 @@ web applications to deliver scalable, production-ready systems.
 
 ## Web Applications
 
+### [Smartcare](https://github.com/hazem-gamal-1/Smartcare)
 ### [Skillmind AI](https://github.com/hazem-gamal-1/SkillMind.Ai)
 
 ## Computer Vision Projects
