@@ -36,14 +36,11 @@ web applications to deliver scalable, production-ready systems.
 
 ### [Ideafy](https://github.com/hazem-gamal-1/ideafy)
 
-## Web Applications
-
-### [Smartcare](https://github.com/hazem-gamal-1/Smartcare)
-### [Skillmind AI](https://github.com/hazem-gamal-1/SkillMind.Ai)
-
 ## Computer Vision Projects
 
+### [LeafGuard](https://github.com/hazem-gamal-1/LeafGuard)
 ### [Dentist](https://github.com/hazem-gamal-1/dentist)
+
 
 ## Machine Learning Projects
 
@@ -52,6 +49,12 @@ web applications to deliver scalable, production-ready systems.
 ### [KNN Fraud Detector](https://github.com/hazem-gamal-1/KNN-Fraud-Detector)
 
 ### [Credit Card Fraud Detector](https://github.com/hazem-gamal-1/Credit-Card-Fraud-Detector)
+
+
+## Web Applications
+
+### [Smartcare](https://github.com/hazem-gamal-1/Smartcare)
+### [Skillmind AI](https://github.com/hazem-gamal-1/SkillMind.Ai)
 
 ## Exploratory Data Analysis (EDA) Projects
 
