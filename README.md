@@ -33,7 +33,7 @@ web applications to deliver scalable, production-ready systems.
 # Projects
 
 ## Agentic AI & LLMs
-### [Brova](hazem-gamal-1/Brova-endpoints)
+### [Brova](https://hazem-gamal-1/Brova-endpoints)
 ### [Ideafy](https://github.com/hazem-gamal-1/ideafy)
 
 ## Computer Vision Projects
