@@ -24,9 +24,7 @@ web applications to deliver scalable, production-ready systems.
   <a href="https://youtube.com/@fullstackai-1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://t.me/FullstackAi" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+
 </p>
 
 ---
